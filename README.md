@@ -1,17 +1,18 @@
-<h1> Olá! eu sou a Raquel Belmiro <h1>
+<h1 align="center"> Olá! eu sou a Raquel Belmiro 💻 ✨ <h1>
 
    <div align="center">
     <a href="https://github.com/raquelbelmiro"> 
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=RaquelBelmiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelBelmiro&layout=compact&langs_count=7&theme=dracula"/>
   </div>
-      
+      <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/f460928072808f0e703f5c6e8d7aa9a9.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Raquel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Raquel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Raquel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Raquel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     
   </div>
       
  <br>

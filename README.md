@@ -1,6 +1,6 @@
 <h1> Olá! eu sou a Raquel Belmiro <h1>
 
-   <div>
+   <div align="center">
     <a href="https://github.com/raquelbelmiro"> 
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=RaquelBelmiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelBelmiro&layout=compact&langs_count=7&theme=dracula"/>

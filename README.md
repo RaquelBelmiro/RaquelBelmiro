@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! eu sou a Raquel Belmiro 💻 ✨ <h1>
+## Olá! eu sou a Raquel Belmiro 💻 ✨
 
    <div>
   <a href="https://github.com/raquelbelmiro">
